@@ -2,3 +2,9 @@ h1 {
 color: blue;
 font-size: 45px;
 }
+
+h2 {
+  color: red;
+  font-family: Impact;
+  font-size: 18px;
+}
