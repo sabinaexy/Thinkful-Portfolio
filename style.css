@@ -7,10 +7,10 @@ footer {
 }
 
 h1 {
-font-family: Candara, Cochin;
-color: blue;
-font-size: 30px;
-text-align: center;
+  font-family: Candara, Cochin;
+  color: blue;
+  font-size: 30px;
+  text-align: center;
 }
 
 h2 {
@@ -35,7 +35,6 @@ h4 {
 
 p {
   font-family: geneva, tahoma;
-
 }
 
 hr {
@@ -61,7 +60,7 @@ u1 {
   padding: 4px;
   background-color: blueviolet;
   display: block;
-  margin: auto; 
+  margin: auto;
 }
 
 .blueText {
